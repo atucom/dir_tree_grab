@@ -1,3 +1,6 @@
+**NOTE** THIS DOES NOT WORK ON WIN XP (xp doesnt have the "where" command)
+it works on win2k3 and above
+
 This Ruby script is fairly simple, it just logs into the specified server
 generates a listing of the absolute paths for every file on the system
 and then pulls it down to your box.
