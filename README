@@ -6,3 +6,8 @@ The point of this was so i could quickly iterate through a crap ton of
 machines so i could find servers with juicy looking filenames.
 
 It requires winexe-PTH installed on the system and in the PATH
+
+You can use normal winexe too, just delete the "-PTH" off of the code
+
+
+<3
